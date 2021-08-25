@@ -1,0 +1,12 @@
+activate CV
+set FLASK_APP=C:\autocar\Segregatorv2\server\webapp\run.py
+set FLASK_ENV=development
+flask run
+
+activate CV
+python C:\autocar\Segregatorv2\server\webapp\app\newserver.py
+==================================================================
+
+activate CV
+cd C:\autocar\finalserver\
+python C:\autocar\finalserver\newServer.py

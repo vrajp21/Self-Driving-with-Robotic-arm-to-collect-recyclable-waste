@@ -1,0 +1,2 @@
+Extract retrained_graph_20-05-2018.part1.rar to retrained_graph_20-05-2018.part16.rar 
+it will give the trained model.
