@@ -1,6 +1,7 @@
 # Self-Driving-with-Robotic-arm-to-collect-recyclable-waste
 
 This project consists of two main development parts: 
+
 i) The self driving car, its main objective is to go
 towards the recyclable content. 
 
