@@ -1,0 +1,8 @@
+Adafruit-GPIO==1.0.3
+Adafruit-PCA9685==1.0.1
+Adafruit-PureIO==1.1.0
+numpy==1.18.2
+opencv-contrib-python==3.4.6.27
+picamera==1.13
+pkg-resources==0.0.0
+spidev==3.4
